@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephanie Fakar</h1>
-<h3 align="center">I’m a data analyst with a background in computer science and a growing passion for turning raw data into actionable insights. Recently, I completed a Data Analysis Bootcamp with Alex the Analyst, where I gained hands-on experience in: 
+I’m a data analyst with a background in computer science and a growing passion for turning raw data into actionable insights. Recently, I completed a Data Analysis Bootcamp with Alex the Analyst, where I gained hands-on experience in: 
   
   - 📊 Data Visualisation: Creating clear, compelling visuals using Excel, Tableau, and Power BI 
   - 🗄️ Databases: Querying, cleaning, and managing data with MySQL 
