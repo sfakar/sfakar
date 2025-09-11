@@ -7,8 +7,8 @@ I’m a data analyst with a background in computer science and a growing passion
   - and interpreting datasets to support data-driven decisions</h3>
 
 
-# My Linkedin Profile
-<a href="https://www.linkedin.com/in/stephanie-fakar-31a6b1225/" target="_bank">
+## My Linkedin Profile
+<a href="https://www.linkedin.com/in/stephanie-fakar-31a6b1225/">
 <img src="https://github.com/sfakar/sfakar/blob/main/icons8-linkedin-50.png" alt="LinkedIn logo" />
 </a>
 
