@@ -7,9 +7,9 @@ I’m a data analyst with a background in computer science and a growing passion
   - and interpreting datasets to support data-driven decisions</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stephanie fakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie fakar" height="30" width="40" /></a>
-</p>
+<h3 align="left">My Linkedin Profile:</h3>
+<a href="www.linkedin.com/in/stephanie-fakar-31a6b1225" target="_bank">
+<img src="https://github.com/sfakar/sfakar/blob/main/icons8-linkedin-50.png" alt="LinkedIn logo" />
+</a>
 
 
